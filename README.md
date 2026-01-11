@@ -9,7 +9,6 @@ Possuo experiência prática em projetos utilizando HTML, CSS, JavaScript, TypeS
 
 - 🎓 Engenharia de Software, com formação prevista para 2026
 - 💻 Atuação focada em Front-End
-- 🎨 Interesse em UI/UX e experiência do usuário
 - 📱 Desenvolvimento de interfaces responsivas e acessíveis
 - 🧠 Aprendizado contínuo por meio de projetos práticos
 
