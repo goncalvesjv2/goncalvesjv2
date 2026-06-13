@@ -1,14 +1,20 @@
 # 👨‍💻 João Victor Gonçalves
 
-🎓 Estudante de Engenharia de Software
+### Software Engineer | React • Next.js • TypeScript • Node.js
 
-💻 Desenvolvedor Front-End
+🎓 Engenharia de Software
+
+💻 Desenvolvedor de Software com foco em aplicações web modernas, APIs REST e boas práticas de Engenharia de Software.
 
 ## 🚀 Sobre mim
 
-Estudante de Engenharia de Software (7º semestre) com foco em desenvolvimento front-end, utilizando Next.js, React, TypeScript e Tailwind CSS para criação de interfaces modernas e responsivas.
+Sou estudante de Engenharia de Software e desenvolvedor focado no desenvolvimento de aplicações web, arquitetura de software e construção de soluções escaláveis.
 
-Possuo experiência prática no desenvolvimento de aplicações web com integração a APIs REST, além de conhecimentos em Back-End com Node.js e Express, incluindo integração com banco de dados MongoDB e comunicação entre front-end e back-end.
+Atuo principalmente com React, Next.js e TypeScript no Front-End, além de expandir continuamente meus conhecimentos em Back-End utilizando Node.js, Express e bancos de dados.
+
+Tenho experiência no desenvolvimento de aplicações Full Stack, integração com APIs REST, componentização de interfaces, arquitetura em camadas, versionamento com Git e boas práticas de desenvolvimento.
+
+Meu objetivo é construir soluções escaláveis, performáticas e de alta qualidade, evoluindo constantemente como Software Engineer.
 
 ## 🛠️ Tecnologias
 
@@ -24,6 +30,7 @@ Possuo experiência prática no desenvolvimento de aplicações web com integra�
   <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="filter: invert(1);" />
   <img alt="Vite.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />  
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
