@@ -79,7 +79,7 @@ https://github.com/goncalvesjv2/nextjs-posts-app
 ## 🌐 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/joao-victor-goncalves-71371b319/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaovictor-goncalves/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
