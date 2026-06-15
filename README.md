@@ -1,20 +1,14 @@
 # 👨‍💻 João Victor Gonçalves
 
-### Software Engineer | React • Next.js • TypeScript • Node.js
+### Desenvolvedor Full Stack Júnior | React • Next.js • TypeScript • Node.js
 
-🎓 Engenharia de Software
+🎓 Estudante de Engenharia de Software (Conclusão prevista: Dezembro/2026)
 
-💻 Desenvolvedor de Software com foco em aplicações web modernas, APIs REST e boas práticas de Engenharia de Software.
+💻 Desenvolvedor com foco na criação de aplicações web modernas, APIs REST e soluções Full Stack.
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor focado no desenvolvimento de aplicações web, arquitetura de software e construção de soluções escaláveis.
-
-Atuo principalmente com React, Next.js e TypeScript no Front-End, além de expandir continuamente meus conhecimentos em Back-End utilizando Node.js, Express e bancos de dados.
-
-Tenho experiência no desenvolvimento de aplicações Full Stack, integração com APIs REST, componentização de interfaces, arquitetura em camadas, versionamento com Git e boas práticas de desenvolvimento.
-
-Meu objetivo é construir soluções escaláveis, performáticas e de alta qualidade, evoluindo constantemente como Software Engineer.
+Sou estudante de Engenharia de Software com foco no desenvolvimento de aplicações web utilizando React, Next.js, TypeScript e Node.js. Possuo experiência prática em projetos Full Stack, criação de APIs REST, integração com bancos de dados e versionamento de código com Git. Estou em constante evolução técnica, desenvolvendo projetos para fortalecer meus conhecimentos em Front-End, Back-End e boas práticas de Engenharia de Software.
 
 ## 🛠️ Tecnologias
 
@@ -35,6 +29,45 @@ Meu objetivo é construir soluções escaláveis, performáticas e de alta quali
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
+
+## ⭐ Projetos em Destaque
+
+### 👥 Sistema de Usuários
+
+Aplicação Full Stack para gerenciamento de usuários com operações CRUD, integração entre Front-End e API REST e persistência de dados em MongoDB.
+
+**Tecnologias:** React, Tailwind CSS, Node.js, Express e MongoDB.
+
+🔗 Deploy:
+https://usuarios-web.vercel.app/
+
+🔗 Repositório:
+https://github.com/goncalvesjv2/usuarios-web
+
+---
+
+### ⚙️ API de Usuários
+
+API desenvolvida para gerenciamento de usuários com persistência de dados em MongoDB.
+
+**Tecnologias:** Node.js, Express e MongoDB.
+
+🔗 Deploy:
+https://api-usuarios-node-g982.onrender.com/usuarios
+
+🔗 Repositório:
+https://github.com/goncalvesjv2/api-usuarios-node
+
+---
+
+### 📰 Posts App
+
+Aplicação desenvolvida com Next.js utilizando App Router, rotas dinâmicas e renderização no servidor.
+
+**Tecnologias:** Next.js, TypeScript e Tailwind CSS. 
+
+🔗 Repositório:
+https://github.com/goncalvesjv2/nextjs-posts-app
 
 ## 📊 GitHub Stats
 
